@@ -1,0 +1,9 @@
+[Gedit Plugin]
+Loader=python
+Module=completion
+IAge=2
+Name=Word completion (especially for python)
+Description=Complete words with the tab key and right key.(Enhance for python by oeway,Thanks to another plugin named "Python Code Completion" by Fenrrir.)
+Authors=Osmo Salomaa <otsaloma@cc.hut.fi>  OEway <oeway007@gmail.com>
+Copyright=Copyright (C) 2006-2008 Osmo Salomaa
+Website=http://users.tkk.fi/~otsaloma/gedit

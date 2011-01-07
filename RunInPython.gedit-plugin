@@ -1,0 +1,9 @@
+[Gedit Plugin]
+Loader=python
+Module=RunInPython
+IAge=2
+Name=Run In Python
+Description=Run the active document through the Python interpreter
+Authors=Mike Doty <mike@psyguygames.com>
+Copyright=© Mike Doty 2007
+Website=http://www.gedit.org/
